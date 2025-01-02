@@ -21,7 +21,7 @@ Eg » `https://graph.org/file/698599feb76711fa080f6.jpg`
 
 ᴏʀ ɪғ ᴅᴏɴ'ᴛ ᴡᴀɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴇɴᴅ = `no`
 
-ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ ᴜʀʟ ᴜsᴇ ᴛʜɪs ʙᴏᴛ -  @FileToUrlX_Bot 
+ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ ᴜʀʟ ᴜsᴇ ᴛʜɪs ʙᴏᴛ -  @prashantbots
 ➤ sᴇɴᴅ ɪᴍɢᴀᴇ ɪɴ ʙᴏᴛ
 ➤ Reply `/telegraph`</b>"""
 
